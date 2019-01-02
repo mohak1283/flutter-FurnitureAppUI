@@ -4,6 +4,8 @@ Furniture App UI design made using Flutter SDK.
 
 Original Design credits: (https://dribbble.com/shots/5626052-Furniture-app/attachments/1215884)
 
+## Other screens Coming soon.
+
 ## Getting Started
 
 
