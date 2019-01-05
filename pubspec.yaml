@@ -55,6 +55,15 @@ flutter:
     - assets/returnbox.png
     - assets/truck.png
     - assets/trucks.png
+    - assets/centerchair.jpg
+    - assets/drawer.jpg
+    - assets/leftchair.jpg
+    - assets/pattern.png
+    - assets/otto2.jpeg
+    - assets/otto3.jpg
+    - assets/otto4.jpg
+    - assets/otto5.jpg
+    - assets/rightchair.JPG
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.io/assets-and-images/#resolution-aware.
@@ -74,9 +83,9 @@ flutter:
         - asset: assets/Quicksand-Light.ttf
         - asset: assets/Quicksand-Medium.ttf
         - asset: assets/Quicksand-Regular.ttf
-  #   - family: Trajan Pro
-  #     fonts:
-  #       - asset: fonts/TrajanPro.ttf
+    - family: Montserrat
+      fonts:
+        - asset: assets/Montserrat-Regular.ttf
   #       - asset: fonts/TrajanPro_Bold.ttf
   #         weight: 700
   #

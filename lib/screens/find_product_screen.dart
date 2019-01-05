@@ -7,11 +7,11 @@ class FindProductScreen extends StatefulWidget {
 class _FindProductScreenState extends State<FindProductScreen> {
   @override
   Widget build(BuildContext context) {
-     return Container(
-      child: Center(
-        child: Text('Find Product Screen', style: TextStyle(
-          fontSize: 24.0
-        ),),
+    return Scaffold(
+      body: Center(
+        child: Container(
+          child: Text('Find Product Screen', style: TextStyle(fontSize: 24.0)),
+        ),
       ),
     );
   }
