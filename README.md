@@ -1,10 +1,13 @@
-# ui_shopping_cart
+# flutter_furniture_app_ui
 
-A new Flutter project.
+Furniture App UI design made using Flutter SDK.
+
+Original Design credits: (https://dribbble.com/shots/5626052-Furniture-app/attachments/1215884)
+
+## Other screens Coming soon.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -14,3 +17,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our 
 [online documentation](https://flutter.io/docs), which offers tutorials, 
 samples, guidance on mobile development, and a full API reference.
+
+# Screenshots
+| Home screen                                                                                                          | Stats Screen                                                                                                          |
+|----------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| ![Home Screen](https://user-images.githubusercontent.com/35039342/50614995-c9b8d780-0f08-11e9-8fca-456b6bf12c9e.png) | ![Stats Screen](https://user-images.githubusercontent.com/35039342/50615014-d89f8a00-0f08-11e9-8737-8b4996a94426.png) |
